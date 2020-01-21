@@ -1,0 +1,11 @@
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.deps.json
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\bin\Debug\netcoreapp3.0\DomainModels.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\bin\Debug\netcoreapp3.0\DomainModels.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csprojAssemblyReference.cache
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csproj.CopyComplete
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.pdb

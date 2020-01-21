@@ -1,0 +1,15 @@
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\Services.deps.json
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\Services.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfoInputs.cache
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\obj\Debug\netcoreapp3.0\Services.AssemblyInfo.cs
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\obj\Debug\netcoreapp3.0\Services.csprojAssemblyReference.cache
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\Services.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\DataAccess.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\DomainModels.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\Models.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\DataAccess.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\Models.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\bin\Debug\netcoreapp3.0\DomainModels.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\obj\Debug\netcoreapp3.0\Services.csproj.CopyComplete
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\obj\Debug\netcoreapp3.0\Services.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\Services\obj\Debug\netcoreapp3.0\Services.pdb

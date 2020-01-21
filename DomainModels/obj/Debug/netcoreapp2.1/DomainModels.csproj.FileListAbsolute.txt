@@ -1,0 +1,8 @@
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\bin\Debug\netcoreapp2.1\DomainModels.deps.json
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\bin\Debug\netcoreapp2.1\DomainModels.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\bin\Debug\netcoreapp2.1\DomainModels.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\obj\Debug\netcoreapp2.1\DomainModels.AssemblyInfoInputs.cache
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\obj\Debug\netcoreapp2.1\DomainModels.AssemblyInfo.cs
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\obj\Debug\netcoreapp2.1\DomainModels.dll
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\obj\Debug\netcoreapp2.1\DomainModels.pdb
+D:\Downloads\zadacaaaaaaaa\E-Commerce\DomainModels\obj\Debug\netcoreapp2.1\DomainModels.csprojAssemblyReference.cache
